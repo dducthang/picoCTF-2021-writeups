@@ -1,5 +1,5 @@
 # 2warm
-point: 50
+point:50
 
 ## Category
 General Skills
